@@ -40,7 +40,7 @@ android.useAndroidX=true
 android.enableJetifier=true
 ```
 
-## Configuração reconhecimento facial para IOS##
+## Configuração reconhecimento facial para IOS ##
 **Obs: Não configurado.**
 
 **Adicionar no info.plist**
